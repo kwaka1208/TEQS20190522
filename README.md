@@ -9,6 +9,10 @@
 - [Visual Studio Codeのダウンロード](https://code.visualstudio.com/)
 - [Git操作の段階と各段階を遷移するためのコマンドの対応](http://bit.ly/2Wjqj9y)
 
+## Gitの良いところ
+- ネット環境が無くても作業できる  
+インターネットに接続されていなくても、ファイルの編集+コミットは可能。コミットを作っておいて、インターネット環境のあるところでプッシュでもＯＫ！
+
 ## 参考リンク集
 ### GitHub
 - [GitHub](https://github.com/)
